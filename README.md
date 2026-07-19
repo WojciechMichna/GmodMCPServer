@@ -4,7 +4,7 @@ This project bridges Garry's Mod and AI agents using the Model Context Protocol 
 
 ## Demonstration
 
-> [Insert Video Demonstration Here]
+[Gmod1.webm](https://github.com/user-attachments/assets/273f56bd-cc6b-4367-98bd-b5bcd7d744e3)
 
 ## Overview
 
