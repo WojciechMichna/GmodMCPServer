@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "gmod-spawn": {
+      "type": "http",
+      "url": "http://host.docker.internal:8000",
+      "headers": {
+        "Authorization": "Bearer FOO_BAR_123"
+      }
+    }
+  }
+}

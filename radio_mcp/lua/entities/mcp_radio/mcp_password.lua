@@ -1,0 +1,1 @@
+return "Bearer FOO_BAR_123"
